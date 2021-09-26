@@ -1,0 +1,3 @@
+1. given a function calculate the simplified version of the function in the same form (if in POS leave in POS) using a k map
+2.Given KMAP derive the POS and SOP simplified function (include some dont care condtions)
+3. Given a truth table derive the simplified function in POS and SOP form using KMAP
